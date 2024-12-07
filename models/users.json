@@ -1,0 +1,38 @@
+[
+  {
+    "username": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "cookieSession": "",
+    "likedMovies": [1, 2, 3],
+    "watchLater": [4],
+    "stayLoggedIn": false
+  },
+  {
+    "username": "Umair",
+    "email": "umair@example.com",
+    "password": "password123",
+    "cookieSession": "",
+    "likedMovies": [4, 5],
+    "watchLater": [1, 2],
+    "stayLoggedIn": false
+  },
+  {
+    "username": "Ali",
+    "email": "ali@example.com",
+    "password": "password123",
+    "cookieSession": "",
+    "likedMovies": [1, 5],
+    "watchLater": [3],
+    "stayLoggedIn": false
+  },
+  {
+    "username": "Doe",
+    "email": "doe@example.com",
+    "password": "password123",
+    "cookieSession": "",
+    "likedMovies": [1, 2],
+    "watchLater": [3, 4, 5],
+    "stayLoggedIn": false
+  }
+]

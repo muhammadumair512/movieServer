@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "imageURL": "https://via.placeholder.com/300x400",
+    "description": "A mind-bending thriller by Christopher Nolan.",
+    "category": "Sci-Fi",
+    "liked": false
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "imageURL": "https://via.placeholder.com/300x400",
+    "description": "Exploring the mysteries of space and time.",
+    "category": "Sci-Fi",
+    "liked": true
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "imageURL": "https://via.placeholder.com/300x400",
+    "description": "Batman takes on the Joker in this masterpiece.",
+    "category": "Action",
+    "liked": false
+  },
+  {
+    "id": 4,
+    "title": "The Matrix",
+    "imageURL": "https://via.placeholder.com/300x400",
+    "description": "Enter the digital world of the Matrix.",
+    "category": "Sci-Fi",
+    "liked": true
+  },
+  {
+    "id": 5,
+    "title": "Avatar",
+    "imageURL": "https://via.placeholder.com/300x400",
+    "description": "An epic journey to Pandora.",
+    "category": "Fantasy",
+    "liked": false
+  }
+]
